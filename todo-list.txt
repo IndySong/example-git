@@ -5,3 +5,5 @@ Todo list
 2. sleep well
 
 3. wake up
+
+confirm to save and comit
